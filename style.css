@@ -1,0 +1,72 @@
+:root{
+    --primary:#7d3cff;
+}
+body{
+    color: #42366D;
+}
+.btn-color{
+    background-color: #7d3cff;
+    color: white !important;
+    padding: .5rem 1rem;
+    border: none;
+    border-radius: 5px;
+}
+.btn-color:hover{
+    background-color: #7559ad;
+    color: white !important;
+}
+.logo{
+    width: 3rem;
+    height: 3rem;
+}
+#aaa{
+    width: 100%;
+    padding: 10rem 0;
+    background: url("img/AAA.png");
+    background-repeat: no-repeat;
+    background-size: 25rem;
+    background-position: center;
+}
+.aaa{
+    width: 20rem;
+    height: 20rem;
+    background: url("img/AAA.png");
+}
+.bg{
+    background-color: #fceed1;
+}
+.bgy{
+    background-color: #f2d53c;
+}
+.bgc{
+    background-color:#c80e13;
+}
+.w-{
+    height: 10rem;
+    width:60%;
+    margin: auto;
+}
+
+.blue{
+    background-color: #8D83BD;
+    color: white;
+}
+#ff{
+    background-color: #61527D;
+    color: white;
+}
+.bg-f{
+    background-color: #d8d8d8;
+    /* border: #7559ad 5px solid; */
+}
+.contact-bg{
+    background-image: url("img/cont-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50rem;
+}
+.project{
+    width: 100%;
+    height: auto;
+}
